@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#eaf0e7"/>
+  <path d="M0 0h1200v630H0z" fill="url(#wash)"/>
+  <circle cx="600" cy="314" r="250" fill="none" stroke="#9aab97" stroke-opacity=".3"/>
+  <circle cx="600" cy="314" r="215" fill="none" stroke="#9aab97" stroke-opacity=".25"/>
+  <path d="M932 91c-8 56 22 105 77 121-47 40-124 24-143-34-16-50 13-94 66-87Z" fill="#e4c9a4"/>
+  <g fill="#778b76" opacity=".72"><circle cx="260" cy="174" r="3"/><circle cx="900" cy="434" r="3"/><circle cx="340" cy="480" r="2"/><circle cx="805" cy="189" r="2"/></g>
+  <g fill="#27332b" text-anchor="middle">
+    <text x="600" y="211" font-family="sans-serif" font-size="18" letter-spacing="5">A LITTLE CELEBRATION</text>
+    <text x="600" y="316" font-family="serif" font-size="62">우리, 결혼합니다</text>
+    <text x="600" y="382" font-family="serif" font-size="27">홍길동  ·  홍길순</text>
+    <text x="600" y="438" font-family="sans-serif" font-size="20">2026년 11월 1일 일요일 오후 2시</text>
+    <text x="600" y="507" font-family="sans-serif" font-size="16" fill="#637f67">현대그린푸드</text>
+  </g>
+  <defs><radialGradient id="wash"><stop stop-color="#fff" stop-opacity=".72"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs>
+</svg>
